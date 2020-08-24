@@ -7,6 +7,8 @@ MySQLとPHPを使ったSNSのような簡易Webアプリケーション
 
 # Description
 
+# Database
+
 
 
 
