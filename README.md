@@ -19,6 +19,12 @@ MySQLとPHPを使ったSNSのような簡易Webアプリケーション
 ### Association
 
 
+## commentsテーブル
+|Column|Type|Options|
+|------|----|-------|
+|text|text|
+|user_id|integer|null: false, foreign_key: true|
 
+### Association
 
 
