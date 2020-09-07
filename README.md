@@ -5,7 +5,7 @@ SNSのようなメッセージをユーザーごとに送信できるアプリ�
 # NewRead
 MySQLとPHPを使ったSNSのような簡易Webアプリケーション
 
-※開発中。
+※現在開発中
 
 
 # simple-message DB設計
